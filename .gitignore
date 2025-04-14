@@ -8,4 +8,5 @@ weights/
 results/
 train/
 valid/
-training_results/
+training_results/segment_exp/weights/*
+!training_results/segment_exp/weights/best.pt
