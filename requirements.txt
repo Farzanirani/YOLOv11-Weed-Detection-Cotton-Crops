@@ -1,0 +1,5 @@
+ultralytics
+torch
+torchvision
+matplotlib
+numpy

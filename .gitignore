@@ -1,0 +1,11 @@
+*.pt
+*.png
+*.jpg
+.ipynb_checkpoints/
+novelty_test/
+runs/
+weights/
+results/
+train/
+valid/
+training_results/

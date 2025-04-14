@@ -1,0 +1,13 @@
+train: "C:/Users/farza/Downloads/M.TECH.v31i.yolov11/train/images"
+val: "C:/Users/farza/Downloads/M.TECH.v31i.yolov11/valid/images"
+test: "C:/Users/farza/Downloads/M.TECH.v31i.yolov11/test/images"
+
+nc: 16
+names: ['Carpetweeds', 'Cotton', 'Crabgrass', 'Eclipta', 'Goosegrass', 'Morningglory', 'Nutsedge', 'PalmerAmaranth', 'Prickly-Sida', 'Purslane', 'Ragweed', 'Sicklepod', 'SpottedSpurge', 'SpurredAnoda', 'Swinecress', 'Waterhemp']
+
+roboflow:
+  workspace: ashok-malhotra-y84wx
+  project: m.tech
+  version: 31
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/ashok-malhotra-y84wx/m.tech/dataset/31
